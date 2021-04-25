@@ -14,8 +14,8 @@ GIVEN a webpage meets accessibility standards
 
 - [x] WHEN I view the structure of the HTML elements, THEN I find that the elements follow a logical structure independent of styling and positioning
 - [x] WHEN I view the image elements, THEN I find accessible alt attributes
-- [ ] WHEN I view the heading attributes, THEN they fall in sequential order
-- [ ] WHEN I view the title element, THEN I find a concise, descriptive title
+- [x] WHEN I view the heading attributes, THEN they fall in sequential order
+- [x] WHEN I view the title element, THEN I find a concise, descriptive title
 
 ## Semantic HTML Implementation
 
