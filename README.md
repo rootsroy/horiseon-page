@@ -15,7 +15,7 @@ GIVEN a webpage meets accessibility standards
 - [x] WHEN I view the structure of the HTML elements, THEN I find that the elements follow a logical structure independent of styling and positioning
 - [x] WHEN I view the image elements, THEN I find accessible alt attributes
 - [x] WHEN I view the heading attributes, THEN they fall in sequential order
-- [ ] WHEN I view the title element, THEN I find a concise, descriptive title
+- [x] WHEN I view the title element, THEN I find a concise, descriptive title
 
 ## Semantic HTML Implementation
 
@@ -38,3 +38,11 @@ Added contextual `alt` attributes to all `img` elements
 ## Heading Hierarchy
 
 > WHEN I view the heading attributes, THEN they fall in sequential order
+
+The only missing item was an H4 element in the footer, other than that elements seems to follow a hierarchical structure as they were.
+
+## Title
+
+> WHEN I view the title element, THEN I find a concise, descriptive title
+
+Title was update to reflect requirements.
